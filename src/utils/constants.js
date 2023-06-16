@@ -29,9 +29,9 @@ export const categories = [
   { name: 'Knockout Hunting Adventure', icon: <FitnessCenterIcon />, },
   { name: 'Republic of Doyle', icon: <CheckroomIcon />, },
   { name: 'Newfie TikTok', icon: <FaceRetouchingNaturalIcon />, },
-  { name: '', icon: <TheaterComedyIcon />, },
-  { name: 'Gym', icon: <FitnessCenterIcon />, },
-  { name: 'Crypto', icon: <DeveloperModeIcon />, },
+  { name: 'Kitchen Party', icon: <TheaterComedyIcon />, },
+  { name: 'Newfoundland Hiking', icon: <FitnessCenterIcon />, },
+  { name: 'Newfoundland Activities', icon: <DeveloperModeIcon />, },
 ];
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
